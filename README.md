@@ -5,7 +5,6 @@
 
 ## Demo :
  
- <img src="https://github.com/swaraj961/Google-Docs-App/blob/master/demo/demo1.gif"/>
  <img src="https://github.com/swaraj961/Google-Docs-App/blob/master/demo/demo3.png"/>
 
 ### Setup
